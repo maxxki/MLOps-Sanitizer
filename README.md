@@ -1,4 +1,4 @@
-# MAXXKI MLOps Produktionsdaten-Sanitizer
+# MAXXKI MLOps Data-Sanitizer
 
 **Lokal. DSGVO-konform. EU AI Act ready.**
 
