@@ -1,2 +1,21 @@
-timestamp,file,kind,confidence,x1,y1,x2,y2
-2026-05-31T13:13:09.708,20260531_131309,face,0.860,HIDDEN,HIDDEN,HIDDEN,HIDDEN
+customer_id,first_name,last_name,email,phone,age,city,plz,account_balance,churn
+C001,Hans,Müller,hans.mueller@example.de,+49 89 12345678,42,München,80331,12450.50,0
+C002,Erika,Schmidt,e.schmidt@firma.de,+49 30 98765432,35,Berlin,10115,8200.00,1
+C003,Klaus,Weber,k.weber@web.de,+49 40 11223344,58,Hamburg,20095,31000.75,0
+C004,Anna,Fischer,anna.fischer@gmail.com,+49 221 55667788,29,Köln,50667,5400.20,0
+C005,Peter,Bauer,p.bauer@outlook.de,+49 711 99887766,47,Stuttgart,70173,18750.00,1
+C006,Maria,Hoffmann,m.hoffmann@t-online.de,+49 69 44332211,61,Frankfurt,60311,42100.90,0
+C007,Thomas,Koch,t.koch@posteo.de,+49 89 77665544,33,München,80335,9800.00,1
+C008,Julia,Becker,julia.becker@gmx.de,+49 30 22334455,44,Berlin,10117,22300.40,0
+C009,Michael,Braun,m.braun@yahoo.de,+49 511 88776655,52,Hannover,30159,15600.00,0
+C010,Sabine,Krause,s.krause@icloud.com,+49 221 33445566,38,Köln,50676,7100.50,1
+C011,Andreas,Richter,a.richter@firma.de,+49 40 99001122,45,Hamburg,20099,28900.00,0
+C012,Claudia,Wolf,c.wolf@example.com,+49 911 55443322,31,Nürnberg,90402,11200.75,1
+C013,Stefan,Schröder,s.schroeder@web.de,+49 711 22110099,56,Stuttgart,70174,38500.00,0
+C014,Petra,Neumann,p.neumann@gmail.com,+49 69 88997766,27,Frankfurt,60313,4300.20,1
+C015,Oliver,Schwarz,o.schwarz@gmx.de,+49 89 44556677,39,München,80339,16800.00,0
+C016,Sandra,Zimmermann,s.zimmermann@posteo.de,+49 30 66778899,48,Berlin,10119,19400.50,0
+C017,Daniel,Hartmann,d.hartmann@t-online.de,+49 40 33221100,34,Hamburg,20097,6700.00,1
+C018,Nicole,Lange,n.lange@outlook.de,+49 221 77889900,53,Köln,50668,33200.80,0
+C019,Markus,Schulz,m.schulz@icloud.com,+49 511 44556677,41,Hannover,30161,12900.25,1
+C020,Monika,Klein,m.klein@yahoo.de,+49 911 22334455,66,Nürnberg,90403,51000.00,0
